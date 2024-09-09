@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is first my git repository
 <br>
-Author-Anurag giri
+Author-Anurag (apna college)
